@@ -19,3 +19,4 @@ Language used:
 •	Javascript
 •	Jquery 
 •	PHP
+•	Bootstrap
